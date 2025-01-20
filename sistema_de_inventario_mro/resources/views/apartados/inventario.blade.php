@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="title">Sistema de Invetario MRO</div>
+    <div class="title">Inventario</div>
 @endsection
 
 <style>
-    h1 {
+    h1{
         color: black;
         font-style: oblique;
         padding-left: 20pt;
