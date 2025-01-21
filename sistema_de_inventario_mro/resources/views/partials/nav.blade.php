@@ -7,6 +7,7 @@
     <ul>
         <li><a href="{{ route('home') }}" >Inicio</a></li>
         <li><a href="{{ route('inventario') }}">Inventario</a></li>
+        <li><a href="{{ route('reportes') }}">Reportes</a></li>
         <li><a href="{{ route('login') }}">Acceso</a></li>
     </ul>
 </nav>
